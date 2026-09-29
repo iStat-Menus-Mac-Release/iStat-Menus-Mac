@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.macapps.workers.dev/iStat-Menus">
+  <a href="example.com">
     <img src="https://img.shields.io/badge/DOWNLOAD%20Here-6f42c1?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"
          height="64" alt="Download iStat Menus for Mac"/>
   </a>
